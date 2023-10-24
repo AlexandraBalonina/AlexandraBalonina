@@ -31,7 +31,7 @@
    <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"/>
 </div>
-###:trophy: Достижения :
+###  :trophy: Достижения :
 <div>
   <img src = "https://github-profile-trophy.vercel.app/?username=AlexandraBaloninad&theme=onedark" alt=""/>
 </div>
