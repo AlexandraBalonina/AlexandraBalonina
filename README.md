@@ -40,3 +40,9 @@
 <div>
 <img src = "https://github-profile-trophy.vercel.app/?username=AlexandraBalonina&theme=onedark" alt=""/>
 </div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+ <img src = "https://github-readme-stats.vercel.app/api?username=AlexandraBalonina&show_icons=true&theme=radical" alt=""/>
+</div>
