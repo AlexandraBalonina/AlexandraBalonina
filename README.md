@@ -46,3 +46,8 @@
 <div>
  <img src = "https://github-readme-stats.vercel.app/api?username=AlexandraBalonina&show_icons=true&theme=radical" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandraBalonina&theme=high-contrast" alt=""/>
+</div>
