@@ -23,3 +23,11 @@
 
 -:sleeping_bed:люблю спать
 
+### :desktop_computer: Языки и инструменты :
+
+<div>
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/canva" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/github" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/mysql" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/css3" width="40" height="40"/>
+</div>
